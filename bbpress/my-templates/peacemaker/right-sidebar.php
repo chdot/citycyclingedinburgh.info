@@ -22,20 +22,17 @@ New site for people thinking of cycling to work<br>
 <!--<img src="/images/pop/pop-2015_213x301.jpg" width="213" height="301" style="padding: 0px">-->
 Pedal on Parliament</a><br>
 
-<a href="http://citycyclingglasgow.com" target="new">citycyclingglasgow</a><br>
-<p><a href="http://citycycling.co.uk" target="new">.citycycling</a>
 
-<br><a href="http://cyclingedinburgh.info">cyclingedinburgh.info</a>
+<br><a href="http://cyclingedinburgh.wordpress.com">cyclingedinburgh (archived)</a>
+ 
 <br><a href="http://spokes.org.uk" target="new">Spokes</a> (Lothian Cycle Campaign)
 
 <br><a href="http://www.cycling-edinburgh.org.uk" target="new">Cycling-Edinburgh</a> - details of local rides<br><a href="http://www.ctclothiansandborders.uk/" target="new">CTC Lothians</a> - events and useful info
 
 
-<br><a href="http://cyclinginfife.wordpress.com">Cycling in Fife</a>
-
 <br><a href="http://www.ed.ac.uk/schools-departments/transport/cycling" target="new">University of Edinburgh's cycling pages</a> - Lots of useful info for staff and students<br>
 
-<a href="http://www.hw.ac.uk/cycling" target="new">Cycling Development Group at Heriot-Watt University</a>
+<a href="http://www.hw.ac.uk/cycling" target="new">Heriot-Watt Cycling Club</a>
 
 <br>
 <a href = "https://www.flickr.com/photos/chdot/14018078361/in/pool-pop2014press/"  target="new"><img src="https://farm8.staticflickr.com/7141/14018078361_8f34c0a2f0_n.jpg" border = "0" width="213" style="padding: 0px;"></a><a href = "http://www.flickr.com/groups/cyclingedinburgh" target="new">

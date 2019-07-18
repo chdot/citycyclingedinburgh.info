@@ -14,7 +14,7 @@ New site for people thinking of cycling to work<br>
 
 <a href="http://cyclefridays.wordpress.com" target="new">
 <img src="https://farm1.staticflickr.com/328/20246738209_8cef7e42d6_m_d.jpg" width="213" style="padding: 0px">
-</a><br>
+</a>
 
 
 
@@ -22,8 +22,6 @@ New site for people thinking of cycling to work<br>
 <!--<img src="/images/pop/pop-2015_213x301.jpg" width="213" height="301" style="padding: 0px">-->
 Pedal on Parliament</a><br>
 
-<a href="http://citycyclingglasgow.com" target="new">citycyclingglasgow</a><br>
-<p><a href="http://citycycling.co.uk" target="new">.citycycling</a>
 
 <br><a href="http://cyclingedinburgh.info">cyclingedinburgh.info</a>
 <br><a href="http://spokes.org.uk" target="new">Spokes</a> (Lothian Cycle Campaign)
